@@ -81,15 +81,3 @@ void sm_run(void){
 int main(void){
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
